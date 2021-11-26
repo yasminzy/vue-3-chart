@@ -8,4 +8,4 @@ pnpm dev
 Check out the tutorials:
 
 - [Blog](https://yasminzy.com/posts/chart-js)
-- [YouTube](https://youtu.be/Iyao6hpu-LU)
+- [YouTube](https://youtu.be/zSaaZ-TP2tc)
